@@ -52,7 +52,7 @@ Add the following configuration to your project:
             [
                 ...
                 grisp: [
-                    otp: [verson: "21.0"],
+                    otp: [version: "21.0"],
                     deploy: [
                         # pre_script: "rm -rf /Volumes/GRISP/*",
                         # destination: "/Volumes/GRISP",
